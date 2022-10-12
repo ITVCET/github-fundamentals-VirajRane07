@@ -14,5 +14,5 @@ client.query( 'Select * from student', (err, res) =>{
 else {
 console.log(err.message);
 }
-client.and;
+client.end;
 })
